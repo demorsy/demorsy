@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet.</h1>
-<h3 align="center">Fresh Developer :)</h3>
+
 
 - 🌱 I’m currently learning **Spring Boot and React.**
 
