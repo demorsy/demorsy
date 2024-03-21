@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet.</h1>
 
 
-- 🌱 I’m currently learning **Spring Boot and SwiftUI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sametenesorsdemir/**
 
